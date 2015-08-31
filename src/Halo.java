@@ -1,4 +1,4 @@
-package id.go.riau.bkd.halo;
+package id.go.riau.bkd.test1;
 
 public class Halo {
 	public static void main(String[] xx){
